@@ -1,0 +1,1 @@
+cat begin.js globals.js handler.js auditors/* end.js > builds/tracker.js
